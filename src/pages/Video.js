@@ -1,5 +1,7 @@
 import React, { useRef, useState } from "react";
+import VideoFooter from "./components/footer/VideoFooter";
 import "./video.css";
+
 
 function Video() {
   const videoRef = useRef(null);
@@ -25,6 +27,8 @@ function Video() {
         loop
         src="https://privaty.com.br/wp-content/uploads/2023/03/gato-1.mp4"
       ></video>
+      {/* Side bar */}
+      <VideoFooter />
     </div>
   );
 }
