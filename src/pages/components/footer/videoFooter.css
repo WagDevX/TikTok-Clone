@@ -27,6 +27,10 @@
     animation: moveTheText 5s infinite linear;
 }
 
+.videoFooterMusic_text p:hover{
+    animation-play-state: paused;
+}
+
 .videoFooter_record{
     animation: spinTheRecord 3s infinite linear;
     position: absolute;
