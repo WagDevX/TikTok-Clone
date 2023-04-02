@@ -9,7 +9,7 @@ function VideoSideBar({likes, messages, shares}) {
 
     const [liked, setLiked] = useState(false)
     
-    function handleLike(){
+    function handdleLike(){
         setLiked(!liked)
     }
 
@@ -18,7 +18,7 @@ function VideoSideBar({likes, messages, shares}) {
     <div className='videoSidebar'>
         <div 
             className='videoSidebar_options'
-            onClick={handleLike}
+            onClick={handdleLike}
         >
             { liked ? <FavoriteIcon fontSize='large'/> : <FavoriteBorderIcon fontSize='large'/> }
             
