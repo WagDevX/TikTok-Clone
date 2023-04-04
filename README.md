@@ -1,13 +1,13 @@
 ### Projeto JornadaDev da EBAC!
 
-Link do projeto Online!
+<div><p1>Link do projeto Online!</div>
 https://tiktok---jornada-770ff.web.app/
-Link da escola do projeto:
+<div>Link da escola do projeto:</div>
 https://ebac.art.br/
 
 ###Tecnologias utilizadas
-React: uma biblioteca JavaScript para criar interfaces de usuário;
-lodash: uma biblioteca JavaScript que fornece funções utilitárias para tarefas comuns de programação;
-CSS: uma linguagem de estilo utilizada para estilizar elementos HTML;
-HTML: uma linguagem de marcação utilizada para estruturar e exibir o conteúdo na web.
-Firebase
+<div>React: uma biblioteca JavaScript para criar interfaces de usuário;</div>
+<div>lodash: uma biblioteca JavaScript que fornece funções utilitárias para tarefas comuns de programação;</div>
+<div>CSS: uma linguagem de estilo utilizada para estilizar elementos HTML;</div>
+<div>HTML: uma linguagem de marcação utilizada para estruturar e exibir o conteúdo na web.</div>
+<div>Firebase</div>
